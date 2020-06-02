@@ -1,0 +1,11 @@
+body {
+    margin: 100px;
+    background-color: turquoise
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: whitesmoke;
+    margin-top: 5px;
+  }
